@@ -1,4 +1,4 @@
-# print('Hello, my name is norvienne and I live in UK.')
+# print('Hello, my name is HlibSamodin and I live in UK.')
 
 ###
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SimplyNorvin&color=2c2c2c)
