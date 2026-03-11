@@ -2,7 +2,6 @@
 
 ###
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SimplyNorvin&color=2c2c2c)
- <img align="right" width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d3374f0-e196-49e0-9998-cbd426786aee" />
 
 <h3>Front-end </h3>
 
@@ -20,3 +19,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash)](https://github.com/norvienne)
 
+ <img align="center" width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d3374f0-e196-49e0-9998-cbd426786aee" />
