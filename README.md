@@ -19,4 +19,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,bash)](https://github.com/norvienne)
 
- <img align="center" width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d3374f0-e196-49e0-9998-cbd426786aee" />
