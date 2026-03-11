@@ -10,7 +10,7 @@
 
 <h3>Front-end </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,scss, javascript)](https://github.com/norvienne)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,scss,javascript)](https://github.com/norvienne)
 
 <h3>Other stuff</h3>
 
