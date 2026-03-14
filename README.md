@@ -25,7 +25,7 @@
 
 <h3>Other stuff</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux,arch,npm,bash)](https://github.com/HlibSamodin11)
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,arch,npm,bash,python)](https://github.com/HlibSamodin11)
 
 
 <h3>Learning Rn</h3>
