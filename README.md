@@ -14,9 +14,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm,linux,arch,bash)](https://github.com/HlibSamodin11)
 
+
+I use standard HTML tags, like
+
+<!---
 <h3>Learning Rn</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=)](https://github.com/HlibSamodin11)
+-->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HlibSamodin11&color=121212" alt="Profile view counter on GitHub" />
