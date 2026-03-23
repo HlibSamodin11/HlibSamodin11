@@ -15,8 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm,linux,arch,bash)](https://github.com/HlibSamodin11)
 
 
-I use standard HTML tags, like
-
 <!---
 <h3>Learning Rn</h3>
 
