@@ -1,8 +1,7 @@
 <h2 align="left">Hello 👋 My name is Hlib </h2>
 
 ###
-
-<img align="right" height="600" src="https://media.tenor.com/39c7_ZNzC4MAAAAi/silly-cat-silly.gif" />
+<img align="right" height="200" src="https://www.welovebuzz.com/wp-content/uploads/2014/11/bus-totoro.gif" />
 
 ###
 
