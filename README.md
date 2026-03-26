@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋 My name is Hlib </h2>
+<h2 align="left">I'm Hlib - I build things that work</h2>
 
 ###
 <img align="right" height="200" src="https://www.welovebuzz.com/wp-content/uploads/2014/11/bus-totoro.gif" />
