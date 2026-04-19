@@ -7,7 +7,7 @@
 
 <h3>Languages & Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss)](https://github.com/HlibSamodin11)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,react,vite)](https://github.com/HlibSamodin11)
 
 <h3>Tools</h3>
 
