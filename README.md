@@ -1,6 +1,7 @@
 # 📊 GitHub Stats & Skills:
 <p>
   <img src="https://github-readme-stats.shion.dev/api?username=HlibSamodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140em" />
+  <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HlibSamodin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140em" />
   <img align="right" width="295em" alt="image" src="https://github.com/user-attachments/assets/624eca26-b405-46e6-aa74-23fc1f23f603" />
   
